@@ -1,0 +1,14 @@
+C:\Users\1017124\Desktop\GamesAPI\bin\Debug\netcoreapp2.1\GamesAPI.deps.json
+C:\Users\1017124\Desktop\GamesAPI\bin\Debug\netcoreapp2.1\GamesAPI.runtimeconfig.json
+C:\Users\1017124\Desktop\GamesAPI\bin\Debug\netcoreapp2.1\GamesAPI.runtimeconfig.dev.json
+C:\Users\1017124\Desktop\GamesAPI\bin\Debug\netcoreapp2.1\GamesAPI.dll
+C:\Users\1017124\Desktop\GamesAPI\bin\Debug\netcoreapp2.1\GamesAPI.pdb
+C:\Users\1017124\Desktop\GamesAPI\obj\Debug\netcoreapp2.1\GamesAPI.csprojAssemblyReference.cache
+C:\Users\1017124\Desktop\GamesAPI\obj\Debug\netcoreapp2.1\GamesAPI.csproj.CoreCompileInputs.cache
+C:\Users\1017124\Desktop\GamesAPI\obj\Debug\netcoreapp2.1\GamesAPI.RazorAssemblyInfo.cache
+C:\Users\1017124\Desktop\GamesAPI\obj\Debug\netcoreapp2.1\GamesAPI.RazorAssemblyInfo.cs
+C:\Users\1017124\Desktop\GamesAPI\obj\Debug\netcoreapp2.1\GamesAPI.AssemblyInfoInputs.cache
+C:\Users\1017124\Desktop\GamesAPI\obj\Debug\netcoreapp2.1\GamesAPI.AssemblyInfo.cs
+C:\Users\1017124\Desktop\GamesAPI\obj\Debug\netcoreapp2.1\GamesAPI.RazorTargetAssemblyInfo.cache
+C:\Users\1017124\Desktop\GamesAPI\obj\Debug\netcoreapp2.1\GamesAPI.dll
+C:\Users\1017124\Desktop\GamesAPI\obj\Debug\netcoreapp2.1\GamesAPI.pdb
